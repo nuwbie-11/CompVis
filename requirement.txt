@@ -1,0 +1,9 @@
+conda install -c conda-forge opencv
+conda install -c conda-forge tensorflow
+conda install -c conda-forge pandas
+conda install -c conda-forge scikit-learn
+conda install -c conda-forge tesseract
+conda install -c conda-forge matplotlib-base
+conda install -c conda-forge seaborn
+conda install -c conda-forge ipykernel
+conda install -c conda-forge pytesseract
